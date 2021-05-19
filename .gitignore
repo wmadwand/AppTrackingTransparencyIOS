@@ -101,4 +101,4 @@ Builds/XCodeTestBuild/Libraries/libiPhone-lib.a
 # ========================== #
 /Assets/Plugins/Editor/JetBrains.meta
 /Assets/Plugins/Editor.meta
-/ProjectSettings/ProjectSettings.asset
+# /ProjectSettings/ProjectSettings.asset
