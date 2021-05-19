@@ -52,6 +52,8 @@ public class AppTrackingTransparencyIOS : MonoBehaviour
 
     public void Request()
     {
+#if UNITY_IOS
         ATTrackingStatusBinding.RequestAuthorizationTracking();
+#endif
     }
 }
